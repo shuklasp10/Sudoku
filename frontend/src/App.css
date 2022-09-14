@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.menubutton {
+  margin: 5px;
+  border: none;
+  border-radius: 10px;
+  width:100px;
+  height: 30px;
+  background-color: aqua;
+}
+.error{
+  color:red;
+}
+.accept{
+  margin: 10px 0px;
+  color:rgb(56, 234, 56);
+}
+.playerInput{
+  margin:10px 0px;
+  border: 1px solid black;
+  border-radius: 5px;
+  height:20px;
+  padding:3px;
+}
+.saveButton {
+  margin: 5px;
+  border: none;
+  border-radius: 10px;
+  width:60px;
+  height: 30px;
+  background-color: aqua;
+}
+
+
+
+
+

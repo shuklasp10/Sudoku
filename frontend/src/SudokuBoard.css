@@ -1,0 +1,27 @@
+.inputcell {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+table {
+    border: 2px solid rgb(136, 152, 255);
+    border-collapse: collapse;
+    margin-bottom: 15px;
+    background-color: rgb(168, 168, 168);
+}
+
+td:nth-child(3),
+td:nth-child(6) {
+    border-right: 2px solid rgb(136, 152, 255);
+}
+
+tr:nth-child(3),
+tr:nth-child(6) {
+    border-bottom: 2px solid rgb(136, 152, 255);
+}
+
+.timer {
+    float: right;
+    margin-bottom: 10px;
+}
